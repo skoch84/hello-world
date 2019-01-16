@@ -23,6 +23,8 @@ p{
 }
 
 button {
+  width: 100px;
+  height: 25px;
   background-color: aquamarine;
   color: black;
   border-radius: 4px;
